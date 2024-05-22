@@ -1,0 +1,11 @@
+.slideshow-container {
+    position: relative;
+    max-width: 100%;
+    margin: auto;
+    border: 1px solid #ddd;
+}
+.slide {
+    display: none;
+    text-align: center;
+    padding: 10px;
+}
